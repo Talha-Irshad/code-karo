@@ -1,0 +1,11 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 150px auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+*:hover{
+    background-color: gray;
+    transition: 500ms;
+}
